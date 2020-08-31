@@ -233,7 +233,7 @@ header{
     width: 100%;
     height: 50vh;
     margin-top: 30px;
-    margin-bottom: 80px;
+    margin-bottom: 90px;
     background-image: radial-gradient(ellipse closest-side, rgba(0, 0, 0, 0.6), #431f72),
     url(imagenes/laptop.jpg);
     background-repeat: no-repeat;
